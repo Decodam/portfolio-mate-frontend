@@ -1,0 +1,18 @@
+/* ======== Hero ======== */
+
+#hero{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: calc(100vh - 180px);
+}
+
+.hero_lead{
+    font-size: 52px;
+    font-weight: 500;
+    max-width: 700px;
+}
+
+.hero_links{
+    margin-top: 40px;
+}
